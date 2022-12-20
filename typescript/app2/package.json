@@ -23,7 +23,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@module-federation/typescript": "^0.1.8",
+    "@module-federation/typescript": "^2.0.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
